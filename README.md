@@ -1,6 +1,6 @@
 ## Olá eu sou o João de Deus!! 
 
-<div style="flex">
+<div style="display: flex">
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=Joaoof&show_icons=true&bg_color=00000000&theme=midnight-purple"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoof&layout=compact&theme=midnight-purple&https://github.com/Joaoof/github-readme-stats"> 
 </div>
