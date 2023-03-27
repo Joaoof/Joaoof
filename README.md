@@ -37,7 +37,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Currently studying:
-![Análise](https://img.shields.io/badge/-Análise+e+Desenvolvimento+de+Sistemas+0D1117?style=for-the-badge&logo=ads&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Análise](https://img.shields.io/badge/-Análise_e_Desenvolvimentos_de_Sistemas-0D1117?style=for-the-badge&logo=Codecademy&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
