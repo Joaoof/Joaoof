@@ -4,9 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo-aoof/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsApp.com)
 
-![Joaoof GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoof&show_icons=true&theme=dracula&count_private=true)
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
